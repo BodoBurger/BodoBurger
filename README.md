@@ -40,7 +40,6 @@ I love making music 🎹 💽, biking 🚵‍♂️ and hiking ⛰️ in the Alp
 </div>
 
 ---
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BodoBurger&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BodoBurger&theme=monokai&border_radius=4&card_width=400&hide_current_streak=true)](https://git.io/streak-stats)
 
 </div>
