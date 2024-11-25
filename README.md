@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://media.giphy.com/media/xT5LMNWIOq8E1JJ3b2/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3ohze2m5cNyumzUMp2/giphy.gif" width="200"/>
 
 <div id="badges">
   <a href="https://bodoburger.github.io"><img alt="GitHub.io Badge" src="https://img.shields.io/badge/GitHub.io-333?style=flat-square&logo=github"/></a>
